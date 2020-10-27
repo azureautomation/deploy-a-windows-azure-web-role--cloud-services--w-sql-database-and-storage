@@ -1,7 +1,7 @@
 {
     "Author": "Windows Azure Product Team Scripts",
     "ContentSize": 17732,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/deploy-a-windows-azure-web-role-(cloud-services)-w-sql-database-and-storage/master/Create-AzureEnterpriseSite.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/deploy-a-windows-azure-web-role--cloud-services--w-sql-database-and-storage/master/Create-AzureEnterpriseSite.ps1",
     "DownloadCount": 4868,
     "Id": "Deploy-a-Windows-Azure-Web-81629e04",
     "IsFederated": true,
@@ -15,6 +15,6 @@
     "Summary": "This sample script demonstrates how to deploy a .NET corporate site into a Cloud Service with SQL Database and Storage Account.During the process, it will create a Storage Account, SQL Database, and Cloud Service and change the configuration file (*.cscfg) of the project.",
     "Title": "Deploy a Windows Azure Web Role (Cloud Services) w/ SQL Database and Storage",
     "UpdatedDate": "2014-10-16T00:00:00",
-    "Url": "https://github.com/azureautomation/deploy-a-windows-azure-web-role-(cloud-services)-w-sql-database-and-storage",
+    "Url": "https://github.com/azureautomation/deploy-a-windows-azure-web-role--cloud-services--w-sql-database-and-storage",
     "UserTags": "Provisioning"
 }
